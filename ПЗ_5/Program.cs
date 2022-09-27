@@ -46,6 +46,7 @@
             for (v = 0, m = 35; m - v != 3; v++, m--)
                 Console.WriteLine(m + " " + v);
 
+            Console.WriteLine("работssssssssss с git");
         }
     }
 }
