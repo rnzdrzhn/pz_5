@@ -47,6 +47,7 @@
                 Console.WriteLine(m + " " + v);
 
             Console.WriteLine("работssssssssss с git");
+            Console.Write("ya lubly arbuzy");
         }
     }
 }
